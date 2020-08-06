@@ -38,3 +38,18 @@ yarn add @types/express -D
 yarn add knex sqlite3
 yarn add cors
 yarn add @types/cors -D
+
+*********************
+Mobile
+07 - Vai criar a pasta do projeto mobile
+expo init mobile
+
+Escolhe o Template Blank Typescript
+
+Entra na Pasta mobile e digita: yarn start
+
+expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poppins
+yarn add @react-navigation/native
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+yarn add @react-navigation/stack
+yarn add @react-navigation/bottom-tabs
