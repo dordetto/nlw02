@@ -3,6 +3,7 @@ node_modules/
 .expo-shared/
 *.rar
 *.zip
+yarn.lock
 
 # Logs
 logs
